@@ -1,0 +1,11 @@
+mediapipe
+opencv-python
+ipykernel
+numpy
+tensorflow[and-cuda]
+scikit-learn
+pandas
+seaborn
+tqdm
+pyautogui
+imblearn
